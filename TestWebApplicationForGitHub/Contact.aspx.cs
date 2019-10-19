@@ -13,5 +13,12 @@ namespace TestWebApplicationForGitHub
         {
 
         }
+
+
+        public void getdata()
+        {
+            Console.WriteLine("Test A");
+
+        }
     }
 }
