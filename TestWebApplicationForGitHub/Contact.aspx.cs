@@ -18,7 +18,15 @@ namespace TestWebApplicationForGitHub
         public void getdata()
         {
             Console.WriteLine("Test A");
+            Console.WriteLine("Test A");
+            Console.WriteLine("Test A");
+            Console.WriteLine("Test A");
 
+        }
+
+        protected void version()
+        {
+            Console.WriteLine("Test F");
         }
     }
 }
