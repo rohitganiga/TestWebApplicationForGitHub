@@ -20,5 +20,14 @@ namespace TestWebApplicationForGitHub
             Console.WriteLine("Test A");
 
         }
+        
+        public void getdataone()
+        {
+            Console.WriteLine("Test D");
+            Console.WriteLine("Test E");
+            Console.WriteLine("Test AF");
+            Console.WriteLine("Test AG");
+
+        }
     }
 }
