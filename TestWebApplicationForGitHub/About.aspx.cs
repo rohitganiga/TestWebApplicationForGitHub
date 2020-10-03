@@ -11,7 +11,10 @@ namespace TestWebApplicationForGitHub
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+                if(!IsPostBack)
+                {
+                //You have write the code here if you to load data at the first time only.
+                }
         }
     }
 }
